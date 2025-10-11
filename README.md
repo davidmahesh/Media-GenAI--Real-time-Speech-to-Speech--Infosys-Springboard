@@ -28,6 +28,7 @@ Component	Description
 🎬 MoviePy	Audio extraction from videos
 🧱 Flask	Lightweight web backend
 ⚡ Ngrok	Public URL tunneling for Flask server
+
 🔹 Supported Languages
 | Language | Code | Language  | Code |
 | -------- | ---- | --------- | ---- |
