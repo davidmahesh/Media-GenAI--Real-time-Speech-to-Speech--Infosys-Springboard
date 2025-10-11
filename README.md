@@ -39,6 +39,7 @@ Component	Description
 | Kannada  | kn   | Malayalam | ml   |
 
 📦 Installation Guide
+
 🧰 1. Clone the Repository
 git clone https://github.com/NAYANESHREDDY/whisper-translator.git
 cd whisper-translator
