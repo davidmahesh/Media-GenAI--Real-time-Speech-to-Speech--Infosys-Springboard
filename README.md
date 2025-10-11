@@ -1,6 +1,7 @@
 # Media-GenAI---Real-time-Speech-to-Speech
 
-Real-time Speech-to-Speech Translator — AI-powered system for transcribing, translating, and vocalizing multilingual audio using Whisper, Google Translate, and gTTS. 🎧 Whisper Translator — Real-time Speech & Video Translation App
+Real-time Speech-to-Speech Translator — AI-powered system for transcribing, translating, and vocalizing multilingual audio using Whisper, Google Translate, and gTTS. 
+🎧 Whisper Translator — Real-time Speech & Video Translation App
 
 🌍 Translate spoken words from audio, video, or microphone input into 12 Indian languages — all powered by OpenAI Whisper, Google Translate, and Flask + ngrok for a seamless web experience.
 
