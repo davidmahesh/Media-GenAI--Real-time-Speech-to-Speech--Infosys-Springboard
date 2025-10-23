@@ -1,0 +1,15 @@
+SpeechRecognition
+googletrans==4.0.0-rc1
+gTTS
+pydub
+moviepy
+soundfile
+openai-whisper
+flask
+flask-ngrok
+pyngrok
+ffmpeg-python
+torch
+torchaudio
+tqdm
+numpy
