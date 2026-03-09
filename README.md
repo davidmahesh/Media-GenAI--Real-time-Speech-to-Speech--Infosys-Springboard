@@ -42,7 +42,6 @@ Component	Description
 📦 Installation Guide
 
 🧰 1. Clone the Repository
-git clone https://github.com/NAYANESHREDDY/whisper-translator.git
 cd whisper-translator
 
 ⚙️ 2. Install Dependencies
